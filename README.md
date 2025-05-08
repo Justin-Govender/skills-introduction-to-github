@@ -1,9 +1,9 @@
-<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+la<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
 ⭐️ Congratulations Justin-Govender! ⭐️
 
 You completed this exercise! Nice work! 🥳
-
+new line 
 If you would like to practice again, you can retrace your steps below. Just press the **Start Exercise** button again.
 
 > [!TIP]
